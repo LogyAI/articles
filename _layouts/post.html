@@ -177,7 +177,7 @@ layout: post
                 <a href="https://twitter.com/share?url=https://logy.ai/articles{{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
                     <i class="fab fa-twitter text-info"></i>
                 </a>
-                <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url=https://logy.ai/articles/articles{{ page.url }}">
+                <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url=https://logy.ai/articles{{ page.url }}">
                     <i class="fab fa-linkedin-in"></i>
                 </a>
                 <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="http://reddit.com/submit?url=https://logy.ai/articles{{ page.url }}">
@@ -210,13 +210,14 @@ layout: post
             <div class="row my-4 mx-1">
 
                 
+
               <a href="https://www.facebook.com/sharer.php?u=https://logy.ai/articles{{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
                 <i class="fab fa-facebook-f text-primary"></i>
             </a>
             <a href="https://twitter.com/share?url=https://logy.ai/articles{{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
                 <i class="fab fa-twitter text-info"></i>
             </a>
-            <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url=https://logy.ai/articles/articles{{ page.url }}">
+            <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url=https://logy.ai/articles{{ page.url }}">
                 <i class="fab fa-linkedin-in"></i>
             </a>
             <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="http://reddit.com/submit?url=https://logy.ai/articles{{ page.url }}">
@@ -267,7 +268,10 @@ layout: post
           {% if post.tags contains "featured" %}
           <div class="card my-2" style="width: 100%;box-shadow: none;background: rgba(0, 140, 255, 0.00);border-radius: 0;">
            <div class="card-body">
-             <h6 class="card-title">{{post.title}}</h6>
+             <a href="{{ post.url | prepend:site.baseurl}}" >
+
+               <h6 class="card-title text-dark">{{post.title}}</h6>
+             </a>
              <h6 class="card-subtitle mb-2 text-muted">{{post.categories}}</h6>
              <a href="{{ post.url | prepend:site.baseurl}}" class="card-link">Read</a>
              <a  class="card-link px-2 rounded-pill text-white  " id="minright">{{post.readTime}} minutes read</a>
