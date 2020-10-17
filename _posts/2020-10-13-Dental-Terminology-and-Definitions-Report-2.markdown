@@ -2,7 +2,7 @@
 layout: post
 title:  "Dental Terminology and Definitions | Report 2"
 date:   2020-10-13 13:41:25 +0530
-categories: medicine
+categories: [medicine]
 author: Rohita Arora
 tag: [ featured , sticky ]
 readTime: 5
