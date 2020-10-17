@@ -192,8 +192,4 @@ Procedures or medications given to cure the problems
 1. **Precautions:** In case of dislodged fillings and caps please visit your dentist and ask for replacement failing to do so may cause choking.
 2. **Patient referral**
 
-**Dr.Vidya N BDS MDS**
 
-**Pandits Dental Care**
-
-**Mysore, Karnataka**
