@@ -7,9 +7,10 @@ author: Dr. Nivedita Tiwari
 tag: [ featured ]
 readTime: 10
 social: "https://www.linkedin.com/in/anandpanchbhai/"
-highlight: "Jekyll requires blog post files to be named according to the following format"
+highlight: "Using a digital platform to consult reduces your expenses in procuring preventive care gear like PPE KITS"
 coverimage: "https://logy.ai/assets/img/AI-in-Dentistry.jpg"
 authorimage: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9Z1Z9vJxv--iDjhk26tgSiqvweOAvd3W-wA&usqp=CAU"
+authorbio: "Dr. Nivedita Tiwari is a dentist by profession. Passionate about artificial intelligence and technology. Spearhead in A.I Dentistry.A part time science writer and blogger(health and lifestyle)."
 ---
 #### WHAT DO WE DO?
 

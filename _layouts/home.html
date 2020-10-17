@@ -108,7 +108,7 @@
 
 
     <!--Navbar-->
-    <nav class="sticky-top" style="border-bottom: solid 5px rgb(127, 187, 255);">
+    <nav class="sticky-top" >
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="box-shadow: none;border-bottom: solid 5px rgb(53, 138, 235);">
         <div class="container ">
@@ -181,7 +181,7 @@
            <div class="view" id="viewcar" >
              <img class="d-block w-100" src="{{ post.coverimage }}"
              alt="Second slide">
-             <div class="mask rgba-black-light"></div>
+             <div class="mask rgba-black-slight"></div>
             </div>
             <div class="carousel-caption  text-left">
               <a href="{{ post.url | prepend:site.baseurl }}" class="text-white">
@@ -276,7 +276,7 @@
              {% if post.tags contains "featured" %}
              <div class="card my-2" style="width: 100%;box-shadow: none;background: rgba(0, 140, 255, 0.00);border-radius: 0;">
               <div class="card-body">
-                <h5 class="card-title">{{post.title}}</h5>
+                <h6 class="card-title">{{post.title}}</h6>
                 <h6 class="card-subtitle mb-2 text-muted">{{post.categories}}</h6>
                 <a href="{{ post.url | prepend:site.baseurl}}" class="card-link">Read</a>
                 <a  class="card-link px-2 rounded-pill text-white  " id="minright">{{post.readTime}} minutes read</a>
