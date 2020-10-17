@@ -9,7 +9,7 @@ readTime: 5
 social: "https://www.linkedin.com/in/anandpanchbhai/"
 highlight: "Stains covering up to half of labial or lingual surface of teeth with or without involvement of proximal surface"
 coverimage: "https://miro.medium.com/max/3840/1*LvBLUpdPWDpFN-I2MzXb7Q.png"
-authorbio: "BDS MDS"
+authorbio: "BDS MDS ,Pandits Dental Care, Mysore, Karnataka"
 
 ---
 
