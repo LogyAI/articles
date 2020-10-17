@@ -2,7 +2,7 @@
 layout: post
 title:  "Dental Terminology and Definitions | Report 1"
 date:   2020-10-13 13:41:25 +0530
-categories: Dentistry, Dental Screening, Key-Words
+categories:  [ Dentistry, Dental Screening, Key-Words ]
 author: Rohita Arora
 readTime: 5
 social: "https://www.linkedin.com/in/anandpanchbhai/"
