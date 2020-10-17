@@ -1,0 +1,385 @@
+---
+layout: post
+---
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Logy.AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Piazzolla:wght@800&display=swap" rel="stylesheet">
+        <!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
+
+
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"></script>
+<script type="text/javascript">
+  function Copy() 
+  {
+      //var Url = document.createElement("textarea");
+      urlCopied.innerHTML = window.location.href;
+      //Copied = Url.createTextRange();
+      //Copied.execCommand("Copy");
+  }
+</script>
+<style>
+    *{
+       font-family: 'Poppins', sans-serif; 
+    }
+    body{
+      background: rgb(250, 250, 250);
+    }
+    #contentx img{
+      width: 100%;
+      margin-top: 2%;
+      margin-bottom: 2%;
+    }
+    p{
+      font-size: 2vh;
+    }
+    #viewcar{
+      border-radius: 0px 0px 50px 50px;
+      height: 50vh;
+    }
+    #viewcar img{
+      min-height: 100%;
+      object-fit: cover;
+    }
+    #viewcar2{
+      border-radius: 25px;
+    }
+    #minright{
+      font-size: 10px;
+      background: rgba(0, 132, 255, 0.8);
+    }
+    #biglogy{
+      float: right;
+    }
+    #infi{
+      font-size: 8vh;
+    }
+    #foothot{
+      font-family: 'Raleway', sans-serif;
+    }
+    #footbot{
+      font-family: 'Open Sans', sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .carousel .carousel-control-prev-icon {
+    background-image: none;
+    }
+    .carousel .carousel-control-next-icon {
+    background-image: none;
+    }
+    .carousel-indicators li{
+      background-color: rgba(245, 245, 220, 0);
+    }
+    @media screen and (max-width: 767px) {
+       #viewcar {
+          height: 50vh;
+        }
+       #viewcar2 {
+          border-radius: 15px;
+        }
+        #biglogy{
+          float: left;
+        }
+        #infi{
+          font-size: 5vh;
+        }
+      }
+</style>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="sticky-top" style="border-bottom: solid 5px rgb(127, 187, 255);">
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="box-shadow: none;border-bottom: solid 5px rgb(53, 138, 235);">
+        <div class="container ">
+        
+            <!-- Navbar brand -->
+            <a class="navbar-brand p-0" href="/logy_jekyll/" style="font-family: 'Poppins', sans-serif;font-weight: 600;font-size: 30px;">Logy.<span style="color: #428bca;">AI</span></a>
+          
+            <!-- Collapse button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+              aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <!-- Collapsible content -->
+            <div class="collapse navbar-collapse" id="basicExampleNav">
+          
+              <!-- Links -->
+              <ul class="mr-auto"></ul>
+              <!-- Links -->
+          
+              <form class="form-inline p-0 m-0">
+                <div class="md-form my-0 mx-3 ">
+                  <a href="/logy_jekyll/" class="" style="font-weight:500 ;font-size: 12px;color: #5697d0;">HOME</a>
+                </div>
+                <div class="md-form my-0 mx-3 ">
+                  <a href="/logy_jekyll/" class="text-white" style="font-weight:500 ;font-size: 12px;">ARTICLES</a>
+                </div>
+              </form>
+            </div>
+            <!-- Collapsible content -->
+          
+        </div>
+        </nav>
+    </nav>
+  <!--/.Navbar-->
+
+
+  {% assign author = site.authors[page.author] %}
+
+
+  <div class="container mt-4 mb-4">
+    <div class="row">
+      <div class="col-md-9">
+        <div class="">
+          {% for category in page.categories %}
+          <h6 class="card-subtitle mb-1 text-muted">{{ category }}</h6>
+          {% endfor %}
+          <p href="#" class="mb-0">{{ page.date | date: '%b %d, %Y' }}</p>
+          
+         
+        </div>
+          <h1 style="font-weight: 800;font-family: 'Piazzolla', serif;">
+            {{ page.title }}
+          </h1>
+          <h6 class="pr-md-5">{{ page.highlight }}</h6>
+          
+          <div class="col-md-7 p-0">              
+            <div class="row my-4 mx-1">
+
+                
+
+                <a href="https://www.facebook.com/sharer.php?u={{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
+                    <i class="fab fa-facebook-f text-primary"></i>
+                </a>
+                <a href="https://twitter.com/share?url={{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
+                    <i class="fab fa-twitter text-info"></i>
+                </a>
+                <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="http://reddit.com/submit?url={{ page.url }}">
+                  <i class="fab fa-reddit-square text-danger"></i>
+                </a>
+                
+                <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="whatsapp://send?text={{ page.url }}"
+                >
+                  <i class="fab fa-whatsapp text-success"></i>
+                </a>
+               
+                
+                
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9">
+          
+        <img class="w-100 mb-2" src="{{ page.coverimage }}" alt="">
+        
+        <div class="w-100" id="contentx">
+          {{ content }}
+        </div>
+        <div class="col-md-7 p-0">
+            <br>
+            <h4 class="font-weight-bold">Share this article</h4>
+            <hr class="my-0">
+            <div class="row my-4 mx-1">
+
+                
+
+              <a href="https://www.facebook.com/sharer.php?u={{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
+                  <i class="fab fa-facebook-f text-primary"></i>
+              </a>
+              <a href="https://twitter.com/share?url={{ page.url }}" target="_blank" class="col-2 mx-1 py-2 px-2  text-center" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="">
+                  <i class="fab fa-twitter text-info"></i>
+              </a>
+              <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url }}">
+                  <i class="fab fa-linkedin-in"></i>
+              </a>
+              <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="http://reddit.com/submit?url={{ page.url }}">
+                <i class="fab fa-reddit-square text-danger"></i>
+              </a>
+              
+              <a class="col-2 mx-1 py-2 px-2  text-center" target="_blank" style="background: rgba(0, 0, 0, 0.062);border-radius: 5px;" href="whatsapp://send?text={{ page.url }}"
+              >
+                <i class="fab fa-whatsapp text-success"></i>
+              </a>
+             
+              
+              
+          </div>
+        </div>
+        <div class="card my-3" style="width: 100%;box-shadow: none;background: rgba(255, 153, 0, 0.1);border-radius: 15px;">
+            <div class="row">
+                <div class="col-9">
+
+
+                    <div class="card-body">
+                      
+                      <h5 class="card-title">{{ page.author }} </h5>
+                      <h6 class="card-subtitle mb-1 text-muted">{{ page.categories }}</h6>
+                      <p href="#" class="mb-0">{{ page.date | date: '%b %d, %Y' }}</p>
+                      <br>
+                      <a href="{{ page.social }}" target="_blank" class="rounded-pill bg-primary px-2 text-white border-red ">Follow</a>
+                      
+                     
+                    </div>
+
+                </div>
+                <div class="col-3">
+                    <img class="w-100 tile p-1" style="border-radius: 15px;" src="{{ page.authorimage }}" alt="">
+                </div>
+            </div>
+          </div>
+         
+         
+         
+           
+        </div>
+        <div class="col-md-3 ">
+          <h5 style="font-weight: 400;">Featured</h5>
+          <hr class="w-50 mx-0 black">
+
+          {% for post in site.posts %} 
+          {% if post.tags contains "featured" %}
+          <div class="card my-2" style="width: 100%;box-shadow: none;background: rgba(0, 140, 255, 0.00);border-radius: 0;">
+           <div class="card-body">
+             <h5 class="card-title">{{post.title}}</h5>
+             <h6 class="card-subtitle mb-2 text-muted">{{post.categories}}</h6>
+             <a href="{{ post.url | prepend:site.baseurl}}" class="card-link">Read</a>
+             <a  class="card-link px-2 rounded-pill text-white  " id="minright">{{post.readTime}} minutes read</a>
+           </div>
+         </div>
+         {% endif %} 
+         {% endfor %} 
+
+
+         
+          
+          
+          
+
+         
+      </div>
+    </div>
+   
+</div>
+
+
+  <footer class="page-footer font-small unique-color-white text-dark pt-3" style="background: white;">
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left mt-5">
+  
+        <!-- Grid row -->
+        <div class="row mt-3">
+  
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+  
+                <!-- Content -->
+                <h6 class="text-uppercase font-weight-bold" id="foothot">Logy.AI</h6>
+                <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p id="footbot">Build quality Artificial Intelligence with minimum effort and without writing a single line of code.
+                    We help you bring your ideas to reality with user-friendly AI building tools. (Legal name of the company: Nex Fitzap Private Limited)
+                    </p>
+  
+            </div>
+            <!-- Grid column -->
+  
+            <!-- Grid column -->
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+  
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold" id="foothot">Products</h6>
+                <hr class=" mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p >
+                    <a class="text-primary" id="footbot" href="portal.html">Dental AI</a>
+                </p>
+                <p>
+                    <a class="text-primary" id="footbot" href="https://portal.logy.ai">AutoML Platform</a>
+                </p>
+              <!--  <p>
+                    <a href="#!">Pricing</a>
+                </p> -->
+                
+  
+            </div>
+            <!-- Grid column -->
+  
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+  
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold" id="foothot">Useful links</h6>
+                <hr class="mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p>
+                    <a class="text-primary" id="footbot" href="dentalai_pricing.html">DentalAI Pricing</a>
+                </p>
+                <p>
+                    <a class="text-primary" id="footbot" href="privacy.html">Privacy Policy</a>
+                </p>
+                <p>
+                    <a class="text-primary" id="footbot" href="terms_and_conditions.html">Terms and Conditions / Cancellation Policy</a>
+                </p>
+                
+                
+  
+            </div>
+            <!-- Grid column -->
+  
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+  
+                <!-- Links -->
+                <h6 class="text-uppercase font-weight-bold" id="foothot">Contact</h6>
+                <hr class=" mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p id="footbot">
+                    <i class="fa fa-home mr-3"></i> India / Singapore</p>
+                <p id="footbot">
+                    <i class="fa fa-envelope mr-3"></i> humans@logy.ai</p>
+                <p id="footbot">
+                    <i class="fa fa-phone mr-3"></i> +91 70019 72016</p>
+                
+  
+            </div>
+            <!-- Grid column -->
+  
+        </div>
+        <!-- Grid row -->
+  
+    </div>
+    <!-- Footer Links -->
+  
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3 text-dark" style="background: white;" id="footbot"> Copyright ©
+        <a class="text-primary" id="footbot" href="https://logy.ai"> Nex Fitzap Private Limited</a>
+    </div>
+    <!-- Copyright -->
+  
+  </footer>
+</body>
