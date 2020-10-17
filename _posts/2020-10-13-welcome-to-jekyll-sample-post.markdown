@@ -4,7 +4,7 @@ title:  "Dental Terminology and Definitions | Report 2"
 date:   2020-10-13 13:41:25 +0530
 categories: medicine
 author: Anand Panchbai
-tag: featured sticky
+tag: [ featured , sticky ]
 readTime: 5
 social: "https://www.linkedin.com/in/anandpanchbhai/"
 highlight: "Stains covering up to half of labial or lingual surface of teeth with or without involvement of proximal surface"
