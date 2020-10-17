@@ -24,12 +24,12 @@ It is a soft, sticky film that forms on the surface of the teeth and contains mi
 
 
 ##### Stain
-| ![](https://logy.ai/assets/img/blogs/stain.jpeg)
 
 Pigmented deposits 
 1. External/extrinsic stain – pigmented deposits found on the tooth surface
 2. Internal/ intrinsic stain – incorporated in the tooth structure (happens during tooth development itself or a long standing extrinsic stain can become intrinsic)
-3. Age related – the teeth naturally discolor as the person ages and appear more yellow in color.
+3. Age related – the teeth naturally discolor as the person ages and appear more yellow in color. | ![](https://logy.ai/assets/img/blogs/stain.jpeg)
+
 
 ##### Ulcer
 
