@@ -2,13 +2,13 @@
 layout: post
 title:  "Dental Terminology and Definitions | Report 1"
 date:   2020-10-13 13:41:25 +0530
-categories:  [ Dentistry, Dental Screening ]
+categories: [Dentistry, Dental Screening]
 author: Rohita Arora
 readTime: 5
 social: "https://www.linkedin.com/in/anandpanchbhai/"
-highlight: "Jekyll requires blog post files to be named according to the following format"
+highlight: "Bleeding of the gums is the most common sign of gum inflammation/ irritation due to accumulation of plaque and calculus"
 coverimage: "https://logy.ai/assets/img/blogs/bg_part_one.jpg"
-authorimage: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9Z1Z9vJxv--iDjhk26tgSiqvweOAvd3W-wA&usqp=CAU"
+authorbio: "Rohita Arora is a final year BDS student. She is a very enthusiastic person and knows all about things dental."
 ---
 ##### Calculus (Tartar)
 

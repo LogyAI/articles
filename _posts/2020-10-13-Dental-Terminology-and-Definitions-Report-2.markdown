@@ -2,14 +2,14 @@
 layout: post
 title:  "Dental Terminology and Definitions | Report 2"
 date:   2020-10-13 13:41:25 +0530
-categories: medicine
-author: Anand Panchbai
-tag: featured
+categories: [medicine]
+author: Dr.Vidya N 
+tag: [ featured , sticky ]
 readTime: 5
 social: "https://www.linkedin.com/in/anandpanchbhai/"
 highlight: "Stains covering up to half of labial or lingual surface of teeth with or without involvement of proximal surface"
 coverimage: "https://miro.medium.com/max/3840/1*LvBLUpdPWDpFN-I2MzXb7Q.png"
-authorimage: "https://i2-prod.mirror.co.uk/interactives/article12645227.ece/ALTERNATES/s615/doctor.jpg"
+authorbio: "BDS MDS ,Pandits Dental Care, Mysore, Karnataka"
 
 ---
 
@@ -192,8 +192,4 @@ Procedures or medications given to cure the problems
 1. **Precautions:** In case of dislodged fillings and caps please visit your dentist and ask for replacement failing to do so may cause choking.
 2. **Patient referral**
 
-**Dr.Vidya N BDS MDS**
 
-**Pandits Dental Care**
-
-**Mysore, Karnataka**
