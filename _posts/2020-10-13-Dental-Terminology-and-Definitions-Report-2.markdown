@@ -26,20 +26,23 @@ Causes
 
 **External stains Internal stains**
 
-1. Food and drinks a. Porphyria
-2. Nicotine and tobacco products b. medications
-3. Chromogenic bacterial stains c. erythroblastosis fetalis
-4. Tartar d. Celiac disease
-5. Fluorosis e. Enamel hypoplasia- trauma
-6. Metallic components f. caries
-7. Tooth decay g. nutritional deficiencies
-8. Aging h. genetic defects
+|  |  |
+| --- | --- |
+| 1. Food and drinks | a. Porphyria |
+| 2. Nicotine and tobacco products | b. medications |
+| 3. Chromogenic bacterial stains | c. erythroblastosis fetalis |
+| 4. Tartar | d. Celiac disease |
+| 5. Fluorosis | e. Enamel hypoplasia- trauma |
+| 6. Metallic components | f. caries |
+| 7. Tooth decay | g. nutritional deficiencies |
+|  | h. genetic defects |
+|  | i. Infections |
+|  | j. dental restorations |
+|  | k. Hereditary diseases |
 
-I. Infections
 
-J. dental restorations
 
-K. Hereditary diseases
+
 
 ![](https://lh5.googleusercontent.com/Kg7IHUo8MjXH9FPja2p_xvryZohMBbY1tSW30OTeHBU8HHWL8-UfPRZn7MoKfR4hAp2c6hq1jLl1tOY3u7lYvK0yxX7lGHtGQ9Ei2f_No6xV0V1U8obpTilHJbE7GsAV_54fw7fP) ![](https://lh4.googleusercontent.com/0ZiiiDEMuUo9a-B9RRMCZ4-C5T9QgL_HuSn63cPd_khlW5F5d5POUQRa3Q4oYjKB5GUS0b7Bg63e6HVM4xQERlGW80ng8kalfQ6JjkFlTcZhgJXoMhLvNY3eiV0-7QPSkd3aoXKR) ![](https://lh6.googleusercontent.com/l1HcYZaED6VmZboETwzcWkthCNkw0QRs9ryy8SmfUFklqpRpPzaaJFIFvRSMUG5US0Zw1UrSLX6t607Ou05MHc-bv0KsArlH8T96lMuQWo9jNf1ZOkwd4qUHxb53e--6KTs9UF5J)
 
@@ -180,14 +183,14 @@ Procedures or medications given to cure the problems
 
 1. **Preventive Measures**
 
-  1. Brush your teeth twice daily using tooth brush and fluoridated toothpaste using proper technique
-  2. Clean your tongue using tongue cleaner
-  3. Floss your teeth daily
-  4. Eat healthy and balanced diet
-  5. Reduce sugar intake in between meals
-  6. Avoid carbonated drinks
-  7. Have regular check up with your dentist once in every 6 months
-  8. In case of tooth pain please visit your nearest dentist
+  * Brush your teeth twice daily using tooth brush and fluoridated toothpaste using proper technique
+  * Clean your tongue using tongue cleaner
+  * Floss your teeth daily
+  * Eat healthy and balanced diet
+  * Reduce sugar intake in between meals
+  * Avoid carbonated drinks
+  * Have regular check up with your dentist once in every 6 months
+  * In case of tooth pain please visit your nearest dentist
 
 1. **Precautions:** In case of dislodged fillings and caps please visit your dentist and ask for replacement failing to do so may cause choking.
 2. **Patient referral**

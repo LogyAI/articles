@@ -10,9 +10,10 @@ highlight: "Bleeding of the gums is the most common sign of gum inflammation/ ir
 coverimage: "https://logy.ai/assets/img/blogs/bg_part_one.jpg"
 authorbio: "Rohita Arora is a final year BDS student. She is a very enthusiastic person and knows all about things dental."
 ---
+
 ##### Calculus (Tartar)
 
-It is a hard deposit that forms on the surfaces of natural teeth or prosthesis by mineralization of the dental plaque. It cannot be removed by normal brushing and requires a professional oral cleaning. | ![](https://logy.ai/assets/img/blogs/calculus.jpeg)
+ It is a hard deposit that forms on the surfaces of natural teeth or prosthesis by mineralization of the dental plaque. It cannot be removed by normal brushing and requires a professional oral cleaning. | ![](https://logy.ai/assets/img/blogs/calculus.jpeg) 
 
 
 
