@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A WORLD HEALTH CRISIS- MALNUTRITION"
+title:  "A World Health Crisis- malnutrition"
 date:   2020-10-26 17:30:25 +0530
-categories: [Medicine ,World Health ,AI ]
+categories: [Medicine , World Health , AI ]
 author: Dr. Nivedita Tiwari
 tag: [ featured ]
 readTime: 5
@@ -50,7 +50,11 @@ The expected output of the initiative is:
 We at Logy.AI, are always willing to provide better and feasible healthcare to all and make this world a better place to live in.
 
 References:
-1. https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects
-2. https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst
-3. https://studylib.net/doc/8899566/defining-and-measuring-malnutrition
-4. https://www.unhcr.org/45f6abc92.pdf
+
+[https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects](https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects)
+
+[https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst](https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst)
+
+[https://studylib.net/doc/8899566/defining-and-measuring-malnutrition](https://studylib.net/doc/8899566/defining-and-measuring-malnutrition)
+
+[https://www.unhcr.org/45f6abc92.pdf](https://www.unhcr.org/45f6abc92.pdf)
