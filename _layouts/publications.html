@@ -91,6 +91,9 @@
         }
       }
 </style>
+
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Logy.AI</title>
 </head>
@@ -139,8 +142,7 @@
 
 
 
-
-
+    
 
 
 
@@ -153,84 +155,95 @@
 
  
  <div class="container mt-4 mb-4">
+
+
+
+    
+
+
      <h2 class="px-3 py-4">Publications and Conference Presentations
     </h2>
     <div class="px-3">
 
-        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light" style="box-shadow: none;">All</button>
-        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light" style="box-shadow: none;">Journals</button>
-        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light" style="box-shadow: none;">Conference presentations</button>
+        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light cat-all" style="box-shadow: none;">All</button>
+        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light cat-1" style="box-shadow: none;">Journals</button>
+        <button type="button" id="cat" class="btn p-2 px-3 text-dark bg-light cat-2" style="box-shadow: none;">Conference presentations</button>
        
     </div>
 
      <div class="row">
          <div class="col-md-9">
           
-          
-
-
-
-
-
-          <div class="container bcontent my-3" >
-            <div class="card my-3" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
-                <div class="row no-gutters">
-                  
+            <section>
+    
+                <div class="card my-3 group-1" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
+                    <div class="row no-gutters">
+                      
+                
+                        <div class="">
+                            <div class="card-body">
+                              <a href="{{ post.url | prepend:site.baseurl }}">
             
-                    <div class="">
-                        <div class="card-body">
-                          <a href="{{ post.url | prepend:site.baseurl }}">
-
-                            <h5 class="card-title">CHEST X-RAY ANALYSIS WITH DEEP LEARNING-BASED SOFTWARE AS A TRIAGE TEST FOR PULMONARY TUBERCULOSIS - A PROSPECTIVE STUDY OF DIAGNOSTIC ACCURACY FOR CULTURE-CONFIRMED DISEASE
-                            </h5>
-                          </a>
-                            <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
-                            <p>Published on 19 oct, 2020
-                            </p>
-                            
+                                <h5 class="card-title">Group 1 card</h5>
+                              </a>
+                                <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
+                                <p>Published on 19 oct, 2020
+                                </p>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="card my-3" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
-                <div class="row no-gutters">
-                  
             
-                    <div class="">
-                        <div class="card-body">
-                          <a href="{{ post.url | prepend:site.baseurl }}">
-
-                            <h5 class="card-title">CHEST X-RAY ANALYSIS WITH DEEP LEARNING-BASED SOFTWARE AS A TRIAGE TEST FOR PULMONARY TUBERCULOSIS - A PROSPECTIVE STUDY OF DIAGNOSTIC ACCURACY FOR CULTURE-CONFIRMED DISEASE
-                            </h5>
-                          </a>
-                            <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
-                            <p>Published on 19 oct, 2020
-                            </p>
-                            
+            
+            
+            
+                <div class="card my-3 group-2" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
+                    <div class="row no-gutters">
+                      
+                
+                        <div class="">
+                            <div class="card-body">
+                              <a href="{{ post.url | prepend:site.baseurl }}">
+            
+                                <h5 class="card-title">Group 2 card</h5>
+                              </a>
+                                <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
+                                <p>Published on 19 oct, 2020
+                                </p>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="card my-3" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
-                <div class="row no-gutters">
-                  
             
-                    <div class="">
-                        <div class="card-body">
-                          <a href="{{ post.url | prepend:site.baseurl }}">
-
-                            <h5 class="card-title">CHEST X-RAY ANALYSIS WITH DEEP LEARNING-BASED SOFTWARE AS A TRIAGE TEST FOR PULMONARY TUBERCULOSIS - A PROSPECTIVE STUDY OF DIAGNOSTIC ACCURACY FOR CULTURE-CONFIRMED DISEASE
-                            </h5>
-                          </a>
-                            <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
-                            <p>Published on 19 oct, 2020
-                            </p>
-                            
+            
+            
+            
+                <div class="card my-3 group-2" style="width: auto;box-shadow: none;background: rgba(0, 0, 0, 0.02);border-radius: 25px;">
+                    <div class="row no-gutters">
+                      
+                
+                        <div class="">
+                            <div class="card-body">
+                              <a href="{{ post.url | prepend:site.baseurl }}">
+            
+                                <h5 class="card-title">Group 3 card again</h5>
+                              </a>
+                                <p class="small"><strong>Researcher 1, Researcher 2, Researcher 3</strong></p>
+                                <p>Published on 19 oct, 2020
+                                </p>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
+                </section>
+
+
+
+
+
 
 
 
@@ -340,4 +353,25 @@
 </footer>
 
 </body>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+  var activeCat = "";
+  function filterGroup(group){
+    if(activeCat != group){
+      $(".card").filter("."+group).show();
+      $(".card").filter(":not(."+group+")").hide();
+      activeCat = group;
+    }
+  }
+  
+  $(".cat-all").click(function(){
+    $(".card").show();
+    activeCat = "all";
+  });
+  $(".cat-1").click(function(){ filterGroup("group-1"); });
+  $(".cat-2").click(function(){ filterGroup("group-2"); });
+  $(".cat-3").click(function(){ filterGroup("group-3"); });
+});
+</script>
 </html>
