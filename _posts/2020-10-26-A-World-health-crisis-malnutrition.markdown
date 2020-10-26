@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A World Health Crisis- malnutrition"
+title:  "A World Health Crisis- Malnutrition"
 date:   2020-10-26 17:30:25 +0530
 categories: [Medicine , World Health , AI ]
 author: Dr. Nivedita Tiwari
@@ -23,7 +23,7 @@ Realising the far-reaching problem of malnutrition, Logy.AI is now undertaking a
 
 We at Logy.AI are now aiming to eradicate undernutrition. We believe every child is born special and deserves good supervision with nutrition to sustain a healthy and full- filling life.
 
-#### WHY CHILDREN ARE MORE VULNERABLE TO MALNUTRITION?
+#### Why Children are more vulnerable to malnutrition?
 
 * Children are at the highest risk of dying from starvation. They become undernourished faster than adults.
 *  Severely wasted children are 11 times more likely to die than those with a healthy weight.
