@@ -61,10 +61,10 @@ We at Logy.AI, are always willing to provide better and feasible healthcare to a
 
 ### References:
 
-1. [https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects](https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects)
+1. [Unicef: 2018 global nutrition report reveals malnutrition unacceptably high and affects](https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects)
 
-2. [https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst](https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst)
+2. [Whos famine response plan south sudan focuses working partners prevent spread diseases amongst](https://www.afro.who.int/news/whos-famine-response-plan-south-sudan-focuses-working-partners-prevent-spread-diseases-amongst)
 
-3. [https://studylib.net/doc/8899566/defining-and-measuring-malnutrition](https://studylib.net/doc/8899566/defining-and-measuring-malnutrition)
+3. [Defining and measuring malnutrition](https://studylib.net/doc/8899566/defining-and-measuring-malnutrition)
 
 4. [https://www.unhcr.org/45f6abc92.pdf](https://www.unhcr.org/45f6abc92.pdf)
