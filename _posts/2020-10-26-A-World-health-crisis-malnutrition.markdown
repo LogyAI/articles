@@ -16,11 +16,11 @@ authorbio: "Dr. Nivedita Tiwari is a dentist by profession. Passionate about art
 ### State of healthcare today
 
 <hr/>
-<p align="center" style="font-size: bold "> The burden of malnutrition is unacceptably high.</p>
+<p align="center" style="font-weight: bold "> The burden of malnutrition is unacceptably high.</p>
 
 Malnutrition is a universal issue that no country in the world can afford to overlook. Each year around 20 million babies are born underweight and are undernourished most of their lives.
 
-<p align="center" style="font-size: bold " >  Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths. </p>
+<p align="center" style="font-weight: bold " >  Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths. </p>
 
 Estimates from the National Family and Health Survey (2015–16) shows that in India, about 38% of the children under the age of five years are stunted (low height for age), 36% of the children are underweight (low weight for age), and 18% children are wasted (weight for height)
 
