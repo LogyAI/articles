@@ -4,7 +4,7 @@ title:  "A World Health Crisis- Malnutrition"
 date:   2020-10-26 17:30:25 +0530
 categories: [Medicine , World Health , AI ]
 author: Dr. Nivedita Tiwari
-tag: [ featured ]
+tag: [ featured , sticky ]
 readTime: 5
 social: "https://www.linkedin.com/in/dr-nivedita-tiwari-88404216b/"
 highlight: "Undernourished children catch infections more easily and have a harder time recovering because their immune systems are impaired"
