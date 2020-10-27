@@ -33,6 +33,8 @@ We at Logy.AI are now aiming to eradicate undernutrition. We believe every child
 
 #### Why children are more vulnerable to malnutrition?
 
+<hr/>
+
 * Children are at the highest risk of dying from starvation. They become undernourished faster than adults.
 *  Severely wasted children are 11 times more likely to die than those with a healthy weight.
 * Undernourished children catch infections more easily and have a harder time recovering because their immune systems are impaired.
