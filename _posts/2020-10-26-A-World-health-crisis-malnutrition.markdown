@@ -11,11 +11,12 @@ highlight: "Undernourished children catch infections more easily and have a hard
 coverimage: "https://lh4.googleusercontent.com/Q0HrzcLGTcGjDnhF8U85777-baIgyw1vOEllqE29AwnyJycb2ITjnsHQd0-T7K3BAngrSvREie2TIQWsGKlgpW-LY1_GD19odl8oma-f48FipzwpJQRax_ILnBkqBG0FIIKQLM-HOkfW1ENyfQ"
 authorbio: "Dr. Nivedita Tiwari is a dentist by profession. Passionate about artificial intelligence and technology. Spearhead in A.I Dentistry.A part time science writer and blogger(health and lifestyle)."
 ---
-##### The burden of malnutrition is unacceptably high.
+### State of healthcare today
+> The burden of malnutrition is unacceptably high.
 
 Malnutrition is a universal issue that no country in the world can afford to overlook. Each year around 20 million babies are born underweight and are undernourished most of their lives.
 
-##### Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths.
+>  Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths.
 
 Estimates from the National Family and Health Survey (2015–16) shows that in India, about 38% of the children under the age of five years are stunted (low height for age), 36% of the children are underweight (low weight for age), and 18% children are wasted (weight for height)
 
@@ -23,7 +24,7 @@ Realising the far-reaching problem of malnutrition, Logy.AI is now undertaking a
 
 We at Logy.AI are now aiming to eradicate undernutrition. We believe every child is born special and deserves good supervision with nutrition to sustain a healthy and full- filling life.
 
-#### Why Children are more vulnerable to malnutrition?
+### Why children are more vulnerable to malnutrition?
 
 * Children are at the highest risk of dying from starvation. They become undernourished faster than adults.
 *  Severely wasted children are 11 times more likely to die than those with a healthy weight.
@@ -49,7 +50,7 @@ The expected output of the initiative is:
 
 We at Logy.AI, are always willing to provide better and feasible healthcare to all and make this world a better place to live in.
 
-References:
+### References:
 
 [https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects](https://www.unicef.org/press-releases/2018-global-nutrition-report-reveals-malnutrition-unacceptably-high-and-affects)
 
