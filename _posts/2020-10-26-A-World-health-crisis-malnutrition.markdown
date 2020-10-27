@@ -11,13 +11,16 @@ highlight: "Undernourished children catch infections more easily and have a hard
 coverimage: "https://lh4.googleusercontent.com/Q0HrzcLGTcGjDnhF8U85777-baIgyw1vOEllqE29AwnyJycb2ITjnsHQd0-T7K3BAngrSvREie2TIQWsGKlgpW-LY1_GD19odl8oma-f48FipzwpJQRax_ILnBkqBG0FIIKQLM-HOkfW1ENyfQ"
 authorbio: "Dr. Nivedita Tiwari is a dentist by profession. Passionate about artificial intelligence and technology. Spearhead in A.I Dentistry.A part time science writer and blogger(health and lifestyle)."
 ---
+<br/>
+
 ### State of healthcare today
+
 <hr/>
-<p align="center"> The burden of malnutrition is unacceptably high.</p>
+<p align="center" style="font-size: bold "> The burden of malnutrition is unacceptably high.</p>
 
 Malnutrition is a universal issue that no country in the world can afford to overlook. Each year around 20 million babies are born underweight and are undernourished most of their lives.
 
-<p align="center">  Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths. </p>
+<p align="center" style="font-size: bold " >  Globally, undernutrition is an underlying factor in more than half of child deaths from pneumonia and malaria, and more than 40% of measles deaths. </p>
 
 Estimates from the National Family and Health Survey (2015–16) shows that in India, about 38% of the children under the age of five years are stunted (low height for age), 36% of the children are underweight (low weight for age), and 18% children are wasted (weight for height)
 
