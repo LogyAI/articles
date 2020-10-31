@@ -251,14 +251,14 @@ layout: post
         </div>
         <div class="card my-3" style="width: 100%;box-shadow: none;background: rgba(255, 153, 0, 0.1);border-radius: 15px;">
             <div class="row">
-                <div class="col-9">
+                <div class="col-md-10">
 
 
                     <div class="card-body">
                       
                       <h5 class="card-title">{{ page.author }} </h5>
-                      <h6 class="card-subtitle mb-1 text-muted">{{ page.categories }}</h6>
-                      <p href="#" class="mb-0">{{ page.authorbio }}</p>
+                      <h6 class="card-subtitle mb-1 text-muted">{{ page.categories | join: "  " }} </h6>
+                      <p href="#" class="mb-0" style="text-align: justify;">{{ page.authorbio }}</p>
                       <br>
                       <a href="{{ page.social }}" target="_blank" class="rounded-pill bg-primary px-2 text-white border-red ">Follow</a>
                       
